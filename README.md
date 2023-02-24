@@ -1,1 +1,1 @@
-# mi-primer-repositorio
+# estudiando git
